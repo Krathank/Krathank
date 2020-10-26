@@ -6,11 +6,12 @@
 
  
 
-- 🔭 I’m currently working on Azure!
-- 🌱 I’m currently exploring Machine learning using Azure services 
+- 🔭 I’m currently working as a Azure Data Engineer!
+- 🔭 I'm an python flask developer and good in build infrastructure through code using Terraform!
+- 🌱 I’m exploring Machine learning using Azure services!
 - 👯 I’m looking to collaborate with other geeks! 
-- 🥅 2020 Goals: To Improve my Skills in Hybrid Cloud Architecture !
-- ⚡ Fun fact: I love to watch - and - !
+- 🥅 2021 Goals: To Improve my Skills in Hybrid Cloud Architecture!
+- ⚡ Fun fact: I love to play guitar!
 
  
 
